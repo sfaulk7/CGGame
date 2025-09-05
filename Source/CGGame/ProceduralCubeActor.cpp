@@ -4,6 +4,7 @@
 #include "ProceduralCubeActor.h"
 #include "ProceduralMeshComponent.h"
 #include "DrawDebugHelpers.h" // for DrawDebugMesh
+#include "InputAction.h"
 
 // Sets default values
 AProceduralCubeActor::AProceduralCubeActor()
